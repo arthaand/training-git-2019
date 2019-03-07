@@ -9,6 +9,7 @@ brew install go / brew install golang
 go version
 go env
  
+ tambah
 
 Bee go
 
