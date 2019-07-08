@@ -23,7 +23,7 @@ git commit -m "Pesan komit"
 ## Commit All
 
 ``` bash
-git commit -all 
+git commit --all 
 ```
 
 ## Push to master
